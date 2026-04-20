@@ -65,9 +65,11 @@ Movement is calculated using time-based updates:
 ```bash
 make
 ./sdl_app
+
 Manual Build (Linux)
 gcc main.c -o sdl_app -lSDL2
 ./sdl_app
+
 Precompiled Binary (Linux)
 ```
 A precompiled Linux executable is available in the Releases section.
